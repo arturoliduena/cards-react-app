@@ -3,7 +3,6 @@ import { useSelector } from 'react-redux';
 import { RootState } from '../store';
 import Card from './Card';
 import styles from './Body.module.css';
-
 const Body = () => {
   const cards = useSelector((state: RootState) => state.card.cards);
   return (

@@ -9,7 +9,6 @@
 /* On screens that are 992px or less */
 @media screen and (max-width: 992px) {
   .body {
-    background-color: blue;
     grid-template-columns: 1fr 1fr 1fr;
   }
 }
@@ -17,7 +16,6 @@
 /* On screens that are 600px or less */
 @media screen and (max-width: 600px) {
   .body {
-    background-color: olive;
     grid-template-columns: 1fr 1fr;
   }
 }
@@ -25,7 +23,6 @@
 /* On screens that are 450px or less */
 @media screen and (max-width: 450px) {
   .body {
-    background-color: red;
     grid-template-columns: 1fr;
   }
 }

@@ -16,8 +16,7 @@ feture:
 * there are buttons that allow us to sort the cards by title asc/desc or by creation asc/desc
 * it is displayed correctly on mobile and desktop.
 
-![](demo/demo_1.gif)
-![](demo/demo_2.gif)
+![](gif/demo.gif)
 
 ### Built With
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
