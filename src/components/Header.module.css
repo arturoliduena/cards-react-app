@@ -1,0 +1,17 @@
+.header {
+  background-color: #282c34;
+  min-height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* On screens that are 450px or less */
+@media screen and (max-width: 450px) {
+  .header {
+    flex-direction: column;
+  }
+}
