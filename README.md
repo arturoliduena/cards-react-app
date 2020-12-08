@@ -16,9 +16,21 @@ feture:
 * there are buttons that allow us to sort the cards by title asc/desc or by creation asc/desc
 * it is displayed correctly on mobile and desktop.
 
-![](gif/demo.gif)
-![](gif/demo_reponsive_2.gif)
+### Demo
+* Add a new card and check the required fields
+![](gif/demo_add_card.gif)
+
+* Edit a card and remove a card
+![](gif/demo_edit_and_remove_card.gif)
+
+* Ordering cards
+![](gif/demo_sorting_cards.gif)
+
+* Responsive
 ![](gif/demo_responsive.gif)
+
+* Persistent data in Redux and localhost
+![](gif/demo_persist_data.gif)
 
 ### Built With
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
