@@ -17,19 +17,19 @@ feture:
 * it is displayed correctly on mobile and desktop.
 
 ### Demo
-* Add a new card and check the required fields
+* Add a new card and check the required fields <br/>
 ![](gif/demo_add_card.gif)
 
-* Edit a card and remove a card
+* Edit a card and remove a card <br/>
 ![](gif/demo_edit_and_remove_card.gif)
 
-* Ordering cards
+* Ordering cards <br/>
 ![](gif/demo_sorting_cards.gif)
 
-* Responsive
-![](gif/demo_responsive.gif)
+* Responsive <br/>
+![](gif/demo_reponsive.gif)
 
-* Persistent data in Redux and localhost
+* Persistent data in Redux and localhost <br/>
 ![](gif/demo_persist_data.gif)
 
 ### Built With
