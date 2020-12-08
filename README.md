@@ -17,6 +17,8 @@ feture:
 * it is displayed correctly on mobile and desktop.
 
 ![](gif/demo.gif)
+![](gif/demo_reponsive_2.gif)
+![](gif/demo_responsive.gif)
 
 ### Built With
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

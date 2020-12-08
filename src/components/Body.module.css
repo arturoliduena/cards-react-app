@@ -13,8 +13,8 @@
   }
 }
 
-/* On screens that are 600px or less */
-@media screen and (max-width: 600px) {
+/* On screens that are 700px or less */
+@media screen and (max-width: 770px) {
   .body {
     grid-template-columns: 1fr 1fr;
   }
